@@ -2,19 +2,21 @@
 
 ## Bash
 
+* [GNU Project Website](https://gnu.org)
 * [The Bash Reference Manual](http://www.gnu.org/software/bash/manual/bash.html)
 * `man bash`
 * [Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible)
 
 ## Sh (POSIX Shell)
 
+* [The Open Group](https://www.opengroup.org)
 * [The Shell Command Language](https://pubs.opengroup.org/onlinepubs/9699919799/utilities/V3_chap02.html)
 * `man sh`
 * [Pure Sh Bible](https://github.com/dylanaraps/pure-sh-bible)
 
 ## Go
 
-* [Official Go Website](https://go.dev)
+* [Go Project Website](https://go.dev)
 * [A Tour of Go](https://go.dev/tour/)
 * [Go by Example](https://gobyexample.com/)
 * [Effective Go](https://go.dev/doc/effective_go)
@@ -24,7 +26,7 @@
 
 ## Python
 
-* [Official Python Website](https://python.org)
+* [Python Project Website](https://python.org)
 * [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
 * [The Python Standard Library](https://docs.python.org/3/library/index.html)
 * [The Python Language Reference](https://docs.python.org/3/reference/index.html)
@@ -36,7 +38,7 @@
 
 ## Git
 
-* [Official Git Website](https://git-scm.com)
+* [Git Project Website](https://git-scm.com)
 * [Git Documentation](https://git-scm.com/doc)
 * [Git Reference Manual](https://git-scm.com/docs)
 * [GitHub Cheat Sheet](https://github.github.com/training-kit/)
