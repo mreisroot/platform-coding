@@ -1,14 +1,24 @@
 # My personal Platform Engineering coding list
 
-## Programming Languages and Git
-
-### Bash
+## Bash
 
 * [The GNU Project Website](https://gnu.org)
 * [The Bash Reference Manual](http://www.gnu.org/software/bash/manual/bash.html)
+* `man man`
 * `man bash`
+* `man builtins`
+* [Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible)
+* [Google Shell Guide](https://google.github.io/styleguide/shellguide.html)
 
-### Go
+## Sh (POSIX Shell)
+
+* `man sh`
+* [The Open Group's sh man page](https://pubs.opengroup.org/onlinepubs/9699919799/utilities/sh.html)
+* [FreeBSD's sh man page](https://man.freebsd.org/sh)
+* [OpenBSD's sh man page](https://man.openbsd.org/sh)
+* [Pure Sh Bible](https://github.com/dylanaraps/pure-sh-bible)
+
+## Go
 
 * [Official Go Website](https://go.dev)
 * [A Tour of Go](https://go.dev/tour/)
@@ -16,8 +26,9 @@
 * [Effective Go](https://go.dev/doc/effective_go)
 * [Go User Manual](https://go.dev/doc)
 * [Standard Library](https://pkg.go.dev/std)
+* [rwxrob's awesome-go Repository](https://github.com/rwxrob/awesome-go)
 
-### Python
+## Python
 
 * [Official Python Website](https://python.org)
 * [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
@@ -29,7 +40,7 @@
 * [Python HOWTOs](https://docs.python.org/3/howto/index.html)
 * [Python Glossary](https://docs.python.org/3/glossary.html)
 
-### Git
+## Git
 
 * [Official Git Website](https://git-scm.com)
 * [Git Documentation](https://git-scm.com/doc)
