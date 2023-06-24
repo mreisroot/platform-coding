@@ -1,12 +1,14 @@
 # Awesome References to learn coding for Platform Engineering, DevOps and Cloud
 
-## Bash
+## Programming Languages and Git
+
+### Bash
 
 * [The GNU Project Website](https://gnu.org)
 * [The Bash Reference Manual](http://www.gnu.org/software/bash/manual/bash.html)
 * `man bash`
 
-## Go
+### Go
 
 * [Official Go Website](https://go.dev)
 * [A Tour of Go](https://go.dev/tour/)
@@ -15,7 +17,7 @@
 * [Go User Manual](https://go.dev/doc)
 * [Standard Library](https://pkg.go.dev/std)
 
-## Python
+### Python
 
 * [Official Python Website](https://python.org)
 * [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
@@ -27,7 +29,7 @@
 * [Python HOWTOs](https://docs.python.org/3/howto/index.html)
 * [Python Glossary](https://docs.python.org/3/glossary.html)
 
-## Git
+### Git
 
 * [Official Git Website](https://git-scm.com)
 * [Git Documentation](https://git-scm.com/doc)
