@@ -20,7 +20,7 @@
 * [Official Python Website](https://python.org)
 * [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
 * [The Python Standard Library](https://docs.python.org/3/library/index.html)
-* [The Python Language Reference](://docs.python.org/3/reference/index.html)
+* [The Python Language Reference](https://docs.python.org/3/reference/index.html)
 * [Extending and Embedding the Python Interpreter](https://docs.python.org/3/extending/index.html)
 * [Python/C API](https://docs.python.org/3/c-api/index.html)
 * [Using Python](https://docs.python.org/3/using/index.html)
@@ -33,7 +33,7 @@
 * [Git Documentation](https://git-scm.com/doc)
 * [Git Reference Manual](https://git-scm.com/docs)
 * [GitHub Cheat Sheet](https://github.github.com/training-kit/)
-* [https://ndpsoftware.com/git-cheatsheet.html](Visual Git Cheat Sheet)
+* [Visual Git Cheat Sheet](https://ndpsoftware.com/git-cheatsheet.html)
 * [Pro Git Book](https://git-scm.com/book)
 * [Curated Git Resources](https://git-scm.com/doc/ext)
 * `man git`
