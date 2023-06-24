@@ -5,7 +5,6 @@
 * [The Bash Reference Manual](http://www.gnu.org/software/bash/manual/bash.html)
 * `man bash`
 * [Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible)
-* [Google Shell Guide](https://google.github.io/styleguide/shellguide.html)
 
 ## Sh (POSIX Shell)
 
