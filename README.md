@@ -2,20 +2,15 @@
 
 ## Bash
 
-* [The GNU Project Website](https://gnu.org)
 * [The Bash Reference Manual](http://www.gnu.org/software/bash/manual/bash.html)
-* `man man`
 * `man bash`
-* `man builtins`
 * [Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible)
 * [Google Shell Guide](https://google.github.io/styleguide/shellguide.html)
 
 ## Sh (POSIX Shell)
 
+* [The Shell Command Language](https://pubs.opengroup.org/onlinepubs/9699919799/utilities/V3_chap02.html)
 * `man sh`
-* [The Open Group's sh man page](https://pubs.opengroup.org/onlinepubs/9699919799/utilities/sh.html)
-* [FreeBSD's sh man page](https://man.freebsd.org/sh)
-* [OpenBSD's sh man page](https://man.openbsd.org/sh)
 * [Pure Sh Bible](https://github.com/dylanaraps/pure-sh-bible)
 
 ## Go
