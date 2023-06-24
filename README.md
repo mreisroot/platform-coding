@@ -1,4 +1,4 @@
-# Awesome References to learn coding for Platform Engineering, DevOps and Cloud
+# My personal Platform Engineering coding list
 
 ## Programming Languages and Git
 
