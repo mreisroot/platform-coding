@@ -36,6 +36,30 @@
 * [Python HOWTOs](https://docs.python.org/3/howto/index.html)
 * [Python Glossary](https://docs.python.org/3/glossary.html)
 
+## SQL
+
+* [PostgreSQL Project Website](https://postgresql.org)
+* [PostgreSQL Documentation](https://www.postgresql.org/docs/)
+* [PostgreSQL Manual](https://www.postgresql.org/docs/current/)
+* [PostgreSQL Books](https://www.postgresql.org/docs/books/)
+* [PostgreSQL Tutorials & Other Resources](https://www.postgresql.org/docs/online-resources/)
+* [PostgreSQL FAQ](https://www.postgresql.org/docs/faq/)
+* [PostgreSQL Wiki](https://wiki.postgresql.org/)
+
+## NoSQL
+
+### Redis
+
+* [Redis Project Website](https://redis.io)
+* [Redis Documentation](https://redis.io/docs)
+* [Getting Started](https://redis.io/docs/getting-started/)
+
+### MongoDB
+
+* [MongoDB Project Website](https://mongodb.com)
+* [MongoDB Documentation](https://www.mongodb.com/docs/)
+* [Start with Guides](https://www.mongodb.com/docs/guides/)
+
 ## Git
 
 * [Git Project Website](https://git-scm.com)
