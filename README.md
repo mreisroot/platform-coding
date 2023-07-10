@@ -38,6 +38,8 @@
 
 ## SQL
 
+### PostgreSQL
+
 * [PostgreSQL Project Website](https://postgresql.org)
 * [PostgreSQL Documentation](https://www.postgresql.org/docs/)
 * [PostgreSQL Manual](https://www.postgresql.org/docs/current/)
@@ -45,6 +47,17 @@
 * [PostgreSQL Tutorials & Other Resources](https://www.postgresql.org/docs/online-resources/)
 * [PostgreSQL FAQ](https://www.postgresql.org/docs/faq/)
 * [PostgreSQL Wiki](https://wiki.postgresql.org/)
+
+### MySQL
+
+* [MySQL Project Website](https://mysql.com)
+* [MySQL Documentation](https://dev.mysql.com/doc/)
+* [MySQL Server Reference Manual](https://dev.mysql.com/doc/refman/en/)
+* [MySQL Enterprise](https://dev.mysql.com/doc/index-enterprise.html)
+* [InnoDB Cluster Documentation](https://dev.mysql.com/doc/mysql-shell/en/mysql-innodb-cluster.html)
+* [MySQL NDB Cluster Documentation](https://dev.mysql.com/doc/index-cluster.html)
+* [MySQL Connectors Documentation](https://dev.mysql.com/doc/index-connectors.html)
+* [More MySQL Resources](https://dev.mysql.com/doc/index-other.html)
 
 ## NoSQL
 
